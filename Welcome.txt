@@ -22,7 +22,7 @@ This C++ Project's purpose is to get back into the language by creating a fairly
 System, that stores user information across different files. The focus should lie on the code's 
 architecture and efficiency. Therefore the beauty of the end product might be lagging ;)
 
-===== Usage ======
+===== Uses ======
 The usage is simple - The program tells you what kind of input is required. All you do is type in
 your answer and then hit 'ENTER'.   ! Note that you will not be able to go back and change it !
 'y' means yes, 'n' means no an 'e' means exit - pretty self-explanatory, right?
